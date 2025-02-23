@@ -11,7 +11,8 @@ We're enthusiasts dedicated to building **plugins**, **extensions**, and **toolk
 
 ### 🔑 Key Features  
 - [x] **Cross-version Compatibility** (GMS2.3+ to latest)
-- [x] **MIT License** - Free for commercial and personal use
+- [x] **Desktop Compatibility** - In fact, it won't support platforms other than Desktop.
+- [x] **MIT License** - Free for commercial and personal use.
 
 ### 🌟 Featured Projects  
 - TODO
